@@ -1,6 +1,5 @@
 I have done this project for my educational purpose.
-This is a Sales Dashboard project I worked on with the help of Chandoo's YouTube tutorials
-https://youtu.be/ooJO7NW4uJU?si=bbjpysr0qIeO2P43.
+This is a Sales Dashboard project I worked on,
 The goal was to build an interactive and insightful dashboard using Power BI, focusing on data visualization and analysis.
 
 Features included-
